@@ -1,14 +1,5 @@
 h1 {
     display: table; /* keep the background color wrapped tight */
     margin: 0px auto 0px auto; /* keep the table centered */
-    padding:5px;font-size:20px;background-color:green;color:#ffffff;
-}
-
-.tiledBackground {
-  background-image: url('waffls.png');
-  background-size: 150px;
-  width: 300px;
-  height: 300px;
-  border: 2px solid;
-  color: pink;
+    padding:5px;font-size:20px;background-color:black;color:#ffffff;
 }
